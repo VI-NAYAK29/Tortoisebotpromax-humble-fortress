@@ -1,0 +1,19 @@
+<package format="3">
+  <name>tortoisebotpromax_gazebo</name>
+  <version>0.0.0</version>
+  <description>TortoiseBot Pro Max Ignition Simulation</description>
+
+  <maintainer email="nayakvinayak2004@gmail.com">user</maintainer>
+  <license>Apache-2.0</license>
+
+  <buildtool_depend>ament_cmake</buildtool_depend>
+
+  <depend>launch</depend>
+  <depend>launch_ros</depend>
+  <depend>ros_gz_sim</depend>
+  <depend>ros_gz_bridge</depend>
+
+  <export>
+    <build_type>ament_cmake</build_type>
+  </export>
+</package>
