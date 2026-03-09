@@ -412,7 +412,6 @@ sed -i 's/Fixed Frame: map/Fixed Frame: odom/' \
 | Wheel Diameter | 0.12 m |
 | Wheel Separation | 0.5 m (simulation) / 0.257 m (real) |
 | Wheel Radius | 0.06 m |
-| Robot Mass | 20.4 kg |
 | LiDAR | YDLiDAR X4 Pro (simulated) — 720 samples, 360° |
 | LiDAR Range | 0.2 m – 20 m |
 | Camera | Intel RealSense D435i (simulated) — 640×480, 30 Hz |
