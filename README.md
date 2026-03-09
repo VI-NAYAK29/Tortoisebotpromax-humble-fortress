@@ -69,7 +69,7 @@ sudo apt install ros-humble-ros-gz-bridge \
 Clone the repository into your ROS2 workspace:
 
 ```bash
-cd ~/tortoisebot_ws/
+cd ~/tortoisebot_ws
 git clone https://github.com/VI-NAYAK29/Tortoisebotpromax-humble-fortress.git
 ```
 
