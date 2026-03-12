@@ -60,7 +60,6 @@ sudo apt install ros-humble-ros-gz-bridge \
                  ros-humble-joint-state-publisher \
                  ros-humble-xacro \
                  ros-humble-rviz2
-cat requirements.txt | xargs sudo apt-get install -y 
 ```
 
 ---
